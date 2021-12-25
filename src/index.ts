@@ -17,4 +17,4 @@ export { default as day19 } from "./019";
 export { default as day21 } from "./021";
 export { default as day22 } from "./022";
 export { default as day23 } from "./023";
-export { default as day24 } from "./024";
+export { default as day25 } from "./025";
