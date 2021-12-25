@@ -1,11 +1,11 @@
-<h1 align="center">Welcome to Advent of Code [2021] 👋</h1>
+<h1 align="center">Advent of Code [2021]</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
-> My 2021 solutions to Advent of Code
+> My somewhat messy but complete 2021 solutions to Advent of Code using Typescript with blood, sweat and tears
 
 ### 🏠 [Homepage](https://adventofcode.com/)
 
@@ -25,7 +25,7 @@ yarn start
 
 👤 **Craig Forrest**
 
-* Website: craigforrest.co.uk
+* Website: https://craigforrest.co.uk
 * Github: [@CForrest97](https://github.com/CForrest97)
 
 ## Show your support
